@@ -14,18 +14,12 @@ git clone https://github.com/JavascriptDon/Project-Moon
 
 cd Project-Moon
 ``` 
-...then install dependencies before running the application in development mode. 
+...then open index.html file before running the project in browser and bob's your uncle!
 
 ``` 
-# Install Dependencies
- npm i 
-
-# Run the application 
-npm start 
-
+# Open Index.html
+ index.html
 ```
-
-Navigate to localhost:3000. You should see your app running. Edit a component file in src, save it, and reload the page to see your changes 
 
 ## Deployed: 🤯 
 
