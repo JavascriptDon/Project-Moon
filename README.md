@@ -4,7 +4,7 @@ Cursor animation + responsive navigation menu using GSAP + Drag Slider using Jav
 <img width="860" alt="covid" src="https://media1.giphy.com/media/DZrXh5coUrfVXaetAm/giphy.gif">
 
 ## Purpose Of Project
-My JavaScript Testing playground for the foreseeable future. 
+My JavaScript Testing ground for the foreseeable future. 
 
 ## How To Start This Project 
 Fork this project to your local directory using the following git commands: 
