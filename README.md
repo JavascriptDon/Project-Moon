@@ -1,8 +1,6 @@
 # Project-Moon
 Cursor animation + responsive navigation menu using GSAP + Drag Slider using JavaScript.
 
-<img width="860" alt="covid" src="https://media1.giphy.com/media/DZrXh5coUrfVXaetAm/giphy.gif">
-
 ## Purpose Of Project
 My JavaScript Testing ground for the foreseeable future. 
 
